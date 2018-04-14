@@ -4,25 +4,25 @@ The system is an online diagnostic lab manager application that brings up variou
 
 Why Use?
 
-Allows for faster service
+-Allows for faster service
 
-It reduces employment as the human efforts
- 
-Easy , user friendly GUI
+-It reduces employment as the human efforts
 
-Allows increased sales and profits for diagnostic labs
+-Easy , user friendly GUI
+
+-Allows increased sales and profits for diagnostic labs
 
 Objectives of the Project:
 
-Establish an Online Diagnostic Lab Reporting System 
+=> Establish an Online Diagnostic Lab Reporting System 
 
-Patients can take the appointment online 
+=>Patients can take the appointment online 
 
-It is going to be very much helpful
+=>It is going to be very much helpful
 
-The system will help the diagnostic centre to track all their patients details
+=>The system will help the diagnostic centre to track all their patients details
 
- This provides quick and effective services
+ =>This provides quick and effective services
  
  Technologies used:
  
